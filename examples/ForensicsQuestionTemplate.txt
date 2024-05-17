@@ -1,0 +1,18 @@
+Forensics Question # (template)
+
+To answer a forensics question, type your answer after the "Answer:" field.
+If there are multiple answers to a question, there will be multiple answer fields provided.
+You must fill in every answer field to earn points from this question.
+An example is shown below.
+--------------------------------------------------------
+Question: What three colors do the United States of America and Texas flags share, respectively?
+Answer: Red
+Answer: White
+Answer: Blue
+--------------------------------------------------------
+The question for you (the competitor) is shown below. Good luck.
+########################################################
+
+Question: <Question>
+Answer: <Answer>
+<You can have an unlimited amount of answers.>
